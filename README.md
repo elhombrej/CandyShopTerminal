@@ -1,4 +1,4 @@
-# CandyShopTerrminal
+# CandyShopTerminal
 
 Group project
 
