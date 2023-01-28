@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/juakopadron/Library/Mobile Documents/com~apple~CloudDocs/Facultad/Segundo Semestre/Programacion Orientada a Objetos(POO)/Tareas POO/TP2/POO_2022_TP2_CandyShop_padron/src/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+3918682163.index
+1699862445.index
