@@ -1,0 +1,2 @@
+# CandyShopTerrminal
+Group project
