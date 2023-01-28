@@ -10,6 +10,6 @@ Group project
 
 - Type: java Main
 
--The program is running to test.
+- The program is running to test.
 
--Choose between numeric options to simulate a candy purchase.
+- Choose between numeric options to simulate a candy purchase.
